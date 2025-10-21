@@ -27,10 +27,9 @@ I’m always exploring new ways to blend technical depth with practical applicat
 
 | Network Security & Application Security                                      | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
-| Network Security & Application Security               | A comprehensive lab for mastering SIEM and log analysis.      |
-| [Active Directory Monitoring Projects]()        | Monitoring Active directory events and security alerts      |
-| [Ethical Hacking Projects for Beginners]()               | Hands-on projects for Ethical hacking and penetration testing      |
-| [Windows Forensics Projects for Beginners]()  | Practical excercises on Windows forensics and analysis |
+| Penetration testing and ethical hacking               | A comprehensive lab for mastering SIEM and log analysis.      |
+| Incident response and digital forensics        | Monitoring Active directory events and security alerts      |
+| Threat analysis and defense strategies               | Hands-on projects for Ethical hacking and penetration testing      |
 
 
 
