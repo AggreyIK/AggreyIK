@@ -9,9 +9,9 @@ Focusing on creating environments where People can experiment, break, defend, an
 
 # Areas of interest include:
 	🎯 Network and web application security
-	•	Penetration testing and ethical hacking
-	•	Incident response and digital forensics
-	•	Threat analysis and defense strategies
+	🎯 Penetration testing and ethical hacking
+	🎯 Incident response and digital forensics
+	🎯 Threat analysis and defense strategies
 
 I’m always exploring new ways to blend technical depth with practical applications in cybersecurity.
 
