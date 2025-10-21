@@ -15,6 +15,14 @@ Areas of interest include:
 
 I’m always exploring new ways to blend technical depth with practical applications in cybersecurity.
 
+## 🚀 Areas of Interest Include
+|------------------------------------------------------|
+| Network Security                          |
+| Incident Response                         |
+| PenTesting & Ethical Hacking              |
+| Threat Analysis & Defense Strategies      |
+
+
 
 ## 🚀 Popular Security Projects 🔐
 
