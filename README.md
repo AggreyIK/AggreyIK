@@ -23,9 +23,9 @@ I’m always exploring new ways to blend technical depth with practical applicat
 | Threat Analysis & Defense Strategies      |
 
 
-# 🚀 Areas of interest include 🔐
+# 🚀 Areas of interest include
 
-| Project Name                                         | Description                                                   |
+| Network Security & Application Security                                      | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
 | Network Security & Application Security               | A comprehensive lab for mastering SIEM and log analysis.      |
 | [Active Directory Monitoring Projects]()        | Monitoring Active directory events and security alerts      |
