@@ -3,8 +3,18 @@
 <a href="https://www.youtube.com/@infoknox"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a href="https://www.tiktok.com/@infoknox"><img src="https://img.shields.io/badge/-TikTok-25F4EE?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
 
+I’m a cybersecurity professional passionate about building hands-on labs, real-world simulations, and interactive tools that make cybersecurity learning more practical and engaging.
 
-As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
+My focus is on creating environments where People can experiment, break, defend, and analyze—building true, experience-based understanding of cybersecurity concepts.
+
+Areas of interest include:
+	•	Network and web application security
+	•	Penetration testing and ethical hacking
+	•	Incident response and digital forensics
+	•	Threat analysis and defense strategies
+
+I’m always exploring new ways to blend technical depth with practical applications in cybersecurity.
+
 
 ## 🚀 Popular Security Projects 🔐
 
