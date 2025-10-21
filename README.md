@@ -23,7 +23,7 @@ I’m always exploring new ways to blend technical depth with practical applicat
 | Threat Analysis & Defense Strategies      |
 
 
-# 🚀 Popular Security Projects 🔐
+# 🚀 Areas of interest include 🔐
 
 | Project Name                                         | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
