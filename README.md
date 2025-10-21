@@ -15,24 +15,6 @@ Areas of interest include:
 
 I’m always exploring new ways to blend technical depth with practical applications in cybersecurity.
 
-## 🚀 Areas of Interest Include
-|------------------------------------------------------|
-| Network Security                          |
-| Incident Response                         |
-| PenTesting & Ethical Hacking              |
-| Threat Analysis & Defense Strategies      |
-
-
-# 🚀 Areas of interest include
-
-| Network Security and Application Security                                          |
-|------------------------------------------------------|---------------------------------------------------------------|
-| Penetration testing and ethical hacking      lab for mastering SIEM and log analysis.      |
-| Incident response and digital forensics        | Monitoring Active directory events and security alerts      |
-| Threat analysis and defense strategies               | Hands-on projects for Ethical hacking and penetration testing      |
-
-
-
 ## 🚀 Popular Security Projects 🔐
 
 | Project Name                                         | Description                                                   |
