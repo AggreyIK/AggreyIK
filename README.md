@@ -25,9 +25,9 @@ I’m always exploring new ways to blend technical depth with practical applicat
 
 # 🚀 Areas of interest include
 
-| Network Security & Application Security                                      | Description                                                   |
+| Network Security and Application Security                                      | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
-| Penetration testing and ethical hacking               | A comprehensive lab for mastering SIEM and log analysis.      |
+| Penetration testing and ethical hacking      lab for mastering SIEM and log analysis.      |
 | Incident response and digital forensics        | Monitoring Active directory events and security alerts      |
 | Threat analysis and defense strategies               | Hands-on projects for Ethical hacking and penetration testing      |
 
