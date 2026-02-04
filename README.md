@@ -5,7 +5,7 @@
 
 I’m a cybersecurity professional passionate about building hands-on labs, real-world simulations, and interactive tools that make cybersecurity learning more practical and engaging.
 
-Focusing on creating environments where People can experiment, break, defend, and analyze—building true, experience-based understanding of cybersecurity concepts.
+Focusing on creating environments where People can experiment, break, defend, and analyze building true, experience-based understanding of cybersecurity concepts.
 
 # Areas of interest include:
 	🎯 Network and web application security
