@@ -25,23 +25,5 @@ I’m always exploring new ways to blend technical depth with practical applicat
 | [SOAR + Response Automation]()  | Practical excercises on Windows forensics and analysis |
 | [Cloud & SaaS Security Monitoring]()  | Practical excercises on Windows forensics and analysis |
 
-## 🚀 Popular Network Projects 🔐
-
-| Project Name                                         | Description                                                   |
-|------------------------------------------------------|---------------------------------------------------------------|
-| [Splunk for Log Analysis]()                 | A comprehensive lab for mastering SIEM and log analysis.      |
-| [Active Directory Monitoring Projects]()        | Monitoring Active directory events and security alerts      |
-| [Ethical Hacking Projects for Beginners]()               | Hands-on projects for Ethical hacking and penetration testing      |
-| [Windows Forensics Projects for Beginners]()  | Practical excercises on Windows forensics and analysis |
-
-
-## 🚀 Popular Cloud Projects 🔐
-
-| Project Name                                         | Description                                                   |
-|------------------------------------------------------|---------------------------------------------------------------|
-| [Splunk for Log Analysis]()                 | A comprehensive lab for mastering SIEM and log analysis.      |
-| [Active Directory Monitoring Projects]()        | Monitoring Active directory events and security alerts      |
-| [Ethical Hacking Projects for Beginners]()               | Hands-on projects for Ethical hacking and penetration testing      |
-| [Windows Forensics Projects for Beginners]()  | Practical excercises on Windows forensics and analysis |
 
 
