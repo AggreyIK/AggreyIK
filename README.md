@@ -20,7 +20,7 @@ I’m always exploring new ways to blend technical depth with practical applicat
 
 | Project Name                                         | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
-| [Detection Engineering & Security Monitoring]()                 | Reflecting real-world SOC workflows, progressing from infrastructure and identity engineering to endpoint visibility, attack detection, dashboarding, and incident investigation.      |
+| [Detection Engineering & Security Monitoring](https://github.com/AggreyIK/Detection-Engineering-Security)                 | Reflecting real-world SOC workflows, progressing from infrastructure and identity engineering to endpoint visibility, attack detection, dashboarding, and incident investigation.      |
 | [Endpoint Detection & Response (EDR) Maturity]()        | Monitoring Active directory events and security alerts      |
 | [Identity Threat Detection & Response (ITDR)]()               | Hands-on projects for Ethical hacking and penetration testing      |
 | [SOAR + Response Automation]()  | Practical excercises on Windows forensics and analysis |
