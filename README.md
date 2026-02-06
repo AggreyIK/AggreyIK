@@ -19,7 +19,7 @@ I’m always exploring new ways to blend technical depth with practical applicat
 
 | Project Name                                         | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
-| [Splunk for Log Analysis]()                 | A comprehensive lab for mastering SIEM and log analysis.      |
+| [Detection Engineering & Security Monitoring]()                 | A comprehensive lab for mastering SIEM and log analysis.      |
 | [Active Directory Monitoring Projects]()        | Monitoring Active directory events and security alerts      |
 | [Ethical Hacking Projects for Beginners]()               | Hands-on projects for Ethical hacking and penetration testing      |
 | [Windows Forensics Projects for Beginners]()  | Practical excercises on Windows forensics and analysis |
