@@ -19,7 +19,7 @@ I’m always exploring new ways to blend technical depth with practical applicat
 
 | Project Name                                         | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
-| [Detection Engineering & Security Monitoring]()                 | The lab is built to reflect real-world SOC workflows, progressing from infrastructure and identity engineering to endpoint visibility, attack detection, dashboarding, and incident investigation.      |
+| [Detection Engineering & Security Monitoring]()                 | Reflecting real-world SOC workflows, progressing from infrastructure and identity engineering to endpoint visibility, attack detection, dashboarding, and incident investigation.      |
 | [Active Directory Monitoring Projects]()        | Monitoring Active directory events and security alerts      |
 | [Ethical Hacking Projects for Beginners]()               | Hands-on projects for Ethical hacking and penetration testing      |
 | [Windows Forensics Projects for Beginners]()  | Practical excercises on Windows forensics and analysis |
